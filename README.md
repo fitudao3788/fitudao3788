@@ -8,7 +8,7 @@
 ### ⌨️Editors
 ![Editors](https://skillicons.dev/icons?i=androidstudio,idea,phpstorm,pycharm,vscode,webstorm)
 
-### Environments
+### 🗄️Environments
 ![Environments](https://skillicons.dev/icons?i=cloudflare,github,nginx,vercel)
 
 ### 📚Programming Languages
